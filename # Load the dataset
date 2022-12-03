@@ -1,0 +1,1 @@
+cancer = datasets.load_breast_cancer()
